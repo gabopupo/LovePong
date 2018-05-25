@@ -1,10 +1,11 @@
 # LovePong
-A simple Pong game, with basic AI, made with Löve2D engine for the selection process of ICMC-USP's game development group, Fellowship of the Game.
+A simple Pong game, with basic AI, made with Löve2D engine for the selection process of ICMC-USP's game development group, <a href="https://www.fog.icmc.usp.br/">Fellowship of the Game</a>.
 
-This game can be played on Windows and Linux, but the latter needs a preinstallation of the Löve2D files. To do so, please refer to https://www.love2d.org/ and install the right package for you. To run this game, type the following code in terminal:
+This game can be played on Windows, running the pong.exe file. In order to properly play it in Linux systems, go to https://www.love2d.org/ and install the Löve2D files available to your operational system. To run this game, type the following code in terminal:
 
 ```
 love pong.love
 ```
 
-This game is available in Brazilian Portuguese only.
+This game is available in Brazilian Portuguese only.<br>
+It is licensed under the terms of the <a href="https://github.com/gabrielrspupo/LovePong/blob/master/LICENSE">MIT license</a>.
